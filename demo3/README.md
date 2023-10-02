@@ -29,4 +29,4 @@ The Fantasy Team Editor and Tracker is capable of the following:
 9. Loading a Team from a csv .txt team file
     1. In the file menu click load team and chose the csv .txt team file you want to load
 10. About
-    1. In the file menu click about to view info abou the authors and the gui platform
+    1. In the file menu click about to view info about the authors and the gui platform
